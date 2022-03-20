@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spotify Playlist</string>
+    <string name="playlist">My Playlist</string>
+    <string name="song_name_input">Song name</string>
+    <string name="artist_input">Artist</string>
+    <string name="album_input">Album</string>
+    <string name="btn_text">Save</string>
+</resources>
